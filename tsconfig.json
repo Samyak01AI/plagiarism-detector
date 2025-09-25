@@ -22,6 +22,10 @@
       "@/*": ["./*"]
     }
   },
+<<<<<<< HEAD
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+=======
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "check_users.js"],
+>>>>>>> db_backend
   "exclude": ["node_modules"]
 }
